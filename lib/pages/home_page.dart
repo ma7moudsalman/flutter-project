@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // 🔍 Search bar
+
             TextField(
               controller: searchController,
               decoration: InputDecoration(

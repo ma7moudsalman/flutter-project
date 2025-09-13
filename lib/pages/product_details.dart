@@ -29,7 +29,7 @@ class ProductDetailsPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // 🖼️ Product Image
+
             Center(
               child: Image.network(
                 product.image,
